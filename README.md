@@ -34,4 +34,33 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
-|  | <> | <> |
+|Denise Bruni| <> | <> |
+|Giacomo Capetta| <> | <> |
+|Alessia Cavallari| <> | <> |
+|Giorgia Colletto| <> | <> |
+|EleonoraL De Palma| <> | <> |
+|Nicolò Dellagaren| <> | <> |
+|Beatrice Devivo| <> | <> |
+|Cristiano Donetti| <> | <> |
+|Yasmine El Hibari| <> | <> |
+|Andrea Gazzoli| <> | <> |
+|Denisa Hysllari| <> | <> |
+|Angelica Leo| <> | <> |
+|Matilde Marina| <> | <> |
+|Giada Mauro| <> | <> |
+|Beniamino Mecca| <> | <> |
+|Vittorio Meloni| <> | <> |
+|Elisa Miramonti| <> | <> |
+|Romilda Muca| <> | <> |
+|Erica Ortone| <> | <> |
+|Anna Racioppi| <> | <> |
+|Adele Ragni| <> | <> |
+|Shehani Vimukthika Perera Ranasinghe Arachchige| <> | <> |
+|Claudia Rebasti| <> | <> |
+|Erica Reibaldi| <> | <> |
+|Davide Restelli| <> | <> |
+|Sara Valsecchi| <> | <> |
+|Giulia Vessoso| <> | <> |
+|Noemi Zanforlin| <> | <> |
+|Giulia Zinnari| <> | <> |
+
