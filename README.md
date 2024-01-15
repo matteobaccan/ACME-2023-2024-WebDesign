@@ -35,7 +35,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/esame> | <> |
-|Capetta Giacomo| <> | <> |
+|Capetta Giacomo| <https://github.com/giacomocapetta/prova> | <> |
 |Cavallari Alessia| <> | <> |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
 |De Palma EleonoraL| <> | <> |
