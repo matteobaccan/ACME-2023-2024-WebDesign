@@ -37,7 +37,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Bruni Denise| <> | <> |
 |Capetta Giacomo| <> | <> |
 |Cavallari Alessia| <> | <> |
-|Colletto Giorgia| <> | <> |
+|Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
 |De Palma EleonoraL| <> | <> |
 |Dellagaren Nicolò| <> | <> |
 |Devivo Beatrice| <> | <> |
