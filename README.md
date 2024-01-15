@@ -49,7 +49,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Marina Matilde| <> | <> |
 |Mauro Giada| <> | <> |
 |Mecca Beniamino| <> | <> |
-|Meloni Vittorio| <> | <> |
+|Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://jade-heliotrope-2046f7.netlify.app/> |
 |Miramonti Elisa| <> | <> |
 |Muca Romilda| <> | <> |
 |Ortone Erica| <> | <> |
