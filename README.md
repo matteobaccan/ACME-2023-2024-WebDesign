@@ -62,5 +62,5 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Valsecchi Sara| <> | <> |
 |Vessoso Giulia| <> | <> |
 |Zanforlin Noemi| <> | <> |
-|Zinnari Giulia| <> | <> |
+|Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <> |
 
