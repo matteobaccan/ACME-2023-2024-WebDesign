@@ -41,7 +41,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |De Palma Eleonora| <> | <> |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <> |
 |Devivo Beatrice| <> | <> |
-|Donetti Cristiano| <> | <> |
+|Donetti Cristiano| <https://github.com/crisdonetti/Test> | <> |
 |El Hibari Yasmine| <> | <> |
 |Gazzoli Andrea| <> | <> |
 |Hysllari Denisa| <> | <> |
