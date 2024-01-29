@@ -40,7 +40,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
 |De Palma Eleonora| <> | <> |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <> |
-|Devivo Beatrice| <> | <> |
+|Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Test> | <> |
 |El Hibari Yasmine| <> | <> |
 |Gazzoli Andrea| <> | <> |
