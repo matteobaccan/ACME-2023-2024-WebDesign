@@ -38,7 +38,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://resilient-pasca-4f7eee.netlify.app/> |
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
-|De Palma Eleonora| <> | <> |
+|De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <> |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <> |
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Test> | <> |
