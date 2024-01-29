@@ -58,9 +58,9 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <> | <> |
 |Rebasti Claudia| <> | <> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <> |
-|Restelli Davide| <> | <> |
+|*Restelli Davide| <> | <> |
 |Valsecchi Sara| <> | <> |
-|Vessoso Giulia| <> | <> |
+|*Vessoso Giulia| <> | <> |
 |Zanforlin Noemi| <> | <> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <> |
 
