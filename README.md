@@ -36,7 +36,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |:------|:------------|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/esame> | <> |
 |Capetta Giacomo| <https://github.com/giacomocapetta/prova> | <> |
-|Cavallari Alessia| <> | <> |
+|Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <> |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
 |De Palma Eleonora| <> | <> |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <> |
