@@ -61,6 +61,6 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |*Restelli Davide| <> | <> |
 |Valsecchi Sara| <> | <> |
 |*Vessoso Giulia| <> | <> |
-|Zanforlin Noemi| <> | <> |
+|Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <> |
 
