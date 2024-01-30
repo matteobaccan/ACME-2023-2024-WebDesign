@@ -43,7 +43,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Test> | <> |
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <> |
-|Gazzoli Andrea| <> | <> |
+|Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <> |
 |Hysllari Denisa| <> | <> |
 |Leo Angelica| <> | <> |
 |Marina Matilde| <> | <> |
