@@ -57,7 +57,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Ragni Adele| <> | <> |
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani1998/test/tree/main> | <> |
 |Rebasti Claudia| <> | <> |
-|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <> |
+|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
 |*Restelli Davide| <> | <> |
 |Valsecchi Sara| <> | <> |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://creative-kelpie-948ed9.netlify.app/> |
