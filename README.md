@@ -51,7 +51,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <> |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <> |
 |Hysllari Denisa| <> | <> |
-|Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <> |
+|Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> |
 |Marina Matilde| <> | <> |
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> |
 |Mecca Beniamino| <> | <> |
