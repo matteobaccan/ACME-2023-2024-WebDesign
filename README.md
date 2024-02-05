@@ -48,7 +48,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <> |
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> |
-|El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <> |
+|El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <> |
 |Hysllari Denisa| <> | <> |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> |
