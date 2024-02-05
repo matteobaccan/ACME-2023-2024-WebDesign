@@ -62,7 +62,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Racioppi Anna| <> | <> |
 |Ragni Adele| <> | <> |
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani1998/test/tree/main> | <> |
-|Rebasti Claudia| <> | <> |
+|Rebasti Claudia| <https://github.com/Claudiareba/claudia> | <> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
 |Restelli Davide| <https://github.com/Chiorico/Pippo> | <> |
 |Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://ilmondodeitessuti.netlify.app/> |
