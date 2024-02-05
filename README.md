@@ -64,7 +64,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani1998/test/tree/main> | <> |
 |Rebasti Claudia| <> | <> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
-|*Restelli Davide| <> | <> |
+|Restelli Davide| <https://github.com/Chiorico/Pippo> | <> |
 |Valsecchi Sara| <> | <> |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://creative-kelpie-948ed9.netlify.app/> |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://poetic-meerkat-ed4dd7.netlify.app/> |
