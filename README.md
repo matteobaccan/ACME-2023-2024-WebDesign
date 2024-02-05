@@ -53,7 +53,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Hysllari Denisa| <> | <> |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <> |
 |Marina Matilde| <> | <> |
-|Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://iridescent-chimera-151034.netlify.app/> |
+|Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> |
 |Mecca Beniamino| <> | <> |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://jade-heliotrope-2046f7.netlify.app/> |
 |Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <> |
