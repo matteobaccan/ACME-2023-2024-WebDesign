@@ -60,7 +60,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Muca Romilda| <> | <> |
 |Ortone Erica| <> | <> |
 |Racioppi Anna| <> | <> |
-|Ragni Adele| <> | <> |
+|Ragni Adele| <https://github.com/adeleragni/progetto-esame-> | <https://riami.netlify.app/> |
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani-ranasinghe/progetto-esame> | <https://i-conic.netlify.app/> |
 |Rebasti Claudia| <https://github.com/Claudiareba/claudia> | <> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
