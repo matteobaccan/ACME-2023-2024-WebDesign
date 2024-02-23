@@ -38,8 +38,8 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 
 ## Autori e progetti sviluppati
 
-| Alunno | GitHub | Netlify |
-|:------|:------------|:-|
+| Alunno | GitHub | Netlify | Slide |
+|:------|:------------|:-|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/esame> | <> |
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://resilient-pasca-4f7eee.netlify.app/> |
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> |
