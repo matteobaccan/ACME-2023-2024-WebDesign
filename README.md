@@ -52,7 +52,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <> |
 |Hysllari Denisa| <> | <> |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> |
-|Marina Matilde| <> | <> |
+|Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://chipper-semifreddo-0743e1.netlify.app/> |
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> |
 |Mecca Beniamino| <> | <> |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://jade-heliotrope-2046f7.netlify.app/> |
