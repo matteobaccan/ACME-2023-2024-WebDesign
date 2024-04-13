@@ -41,7 +41,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 | Alunno | GitHub | Netlify | Slide |
 |:------|:------------|:-|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/Sito-personale> | <https://denisebrunigraphics.netlify.app/> |
-|Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://resilient-pasca-4f7eee.netlify.app/> |
+|Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://giacomocapetta.netlify.app/> |
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <> |
 |De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> |
