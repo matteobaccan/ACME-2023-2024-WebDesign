@@ -42,7 +42,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |:------|:------------|:-|:-|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/Sito-personale> | <https://denisebrunigraphics.netlify.app/> | S | S |
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://giacomocapetta.netlify.app/> | S | S |
-|Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> |
+|Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> | S | S |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <https://giopgraphicsportfolio.netlify.app/> |
 |De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <https://biobeat3d.netlify.app/> |
