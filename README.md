@@ -59,7 +59,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://cheerful-lolly-9b7b25.netlify.app/> | S | S |
 |Muca Romilda| <> | <> |
 |Ortone Erica| <https://github.com/Ericaortone/Esercizi> | <https://esmenyperteeperiltuofuturo.netlify.app/> | S | S |
-|Racioppi Anna| <https://github.com/AnnaRacioppi/Sito-web-design-> | <> | N | N |
+|Racioppi Anna| <https://github.com/AnnaRacioppi/Sito-web-design-> | <> | S | N |
 |Ragni Adele| <https://github.com/adeleragni/progetto-esame-> | <https://riami.netlify.app/> |
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani-ranasinghe/progetto-esame> | <https://i-conic.netlify.app/> |
 |Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> |
