@@ -63,7 +63,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Ragni Adele| <https://github.com/adeleragni/progetto-esame-> | <https://riami.netlify.app/> | S | S |
 |Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani-ranasinghe/progetto-esame> | <https://i-conic.netlify.app/> | S | N |
 |Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> |
-|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
+|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> | S | N |
 |Restelli Davide| <https://github.com/Chiorico/Sito-Personale> | <> | N | N |
 |Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> |
