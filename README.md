@@ -56,7 +56,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | N |
 |Mecca Beniamino| <> | <> |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://vittorio-portfolio.netlify.app/> | S | S |
-|Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://cheerful-lolly-9b7b25.netlify.app/> |
+|Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://cheerful-lolly-9b7b25.netlify.app/> | S | S |
 |Muca Romilda| <> | <> |
 |Ortone Erica| <https://github.com/Ericaortone/Esercizi> | <https://esmenyperteeperiltuofuturo.netlify.app/> |
 |Racioppi Anna| <https://github.com/AnnaRacioppi/Sito-web-design-> | <> |
