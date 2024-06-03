@@ -48,8 +48,8 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Dellagaren-Portfolio> | <https://dellagarenportolio.netlify.app/> | S | N |
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> | S | N |
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> | S | N |
-|El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | |
-|Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> |
+|El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | N |
+|Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> | S | N |
 |Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://chipper-semifreddo-0743e1.netlify.app/> |
@@ -65,7 +65,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
 |Restelli Davide| <https://github.com/Chiorico/Pippo> | <> |
-|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://ilmondodeitessuti.netlify.app/> |
+|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://fairytaleweddings-noemizanforlin.netlify.app/> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> |
