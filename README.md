@@ -40,7 +40,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 
 | Alunno | GitHub | Netlify | Prezenze | Progetto |
 |:------|:------------|:-|:-|:-|
-|Bruni Denise| <https://github.com/denisebhsmc/Sito-personale> | <https://denisebrunigraphics.netlify.app/> |
+|Bruni Denise| <https://github.com/denisebhsmc/Sito-personale> | <https://denisebrunigraphics.netlify.app/> | S | S |
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://giacomocapetta.netlify.app/> | S | S |
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <https://giopgraphicsportfolio.netlify.app/> |
