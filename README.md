@@ -38,7 +38,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 
 ## Autori e progetti sviluppati
 
-| Alunno | GitHub | Netlify | Slide |
+| Alunno | GitHub | Netlify | Prezenze | Progetto |
 |:------|:------------|:-|:-|
 |Bruni Denise| <https://github.com/denisebhsmc/Sito-personale> | <https://denisebrunigraphics.netlify.app/> |
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://giacomocapetta.netlify.app/> |
