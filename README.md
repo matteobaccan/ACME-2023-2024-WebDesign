@@ -44,7 +44,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Capetta Giacomo| <https://github.com/giacomocapetta/GiacomoCapettaPortfolio> | <https://giacomocapetta.netlify.app/> | S | S |
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> | S | S |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <https://giopgraphicsportfolio.netlify.app/> | S | N |
-|De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> |
+|De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> | S | N |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Esame-Web-design> | <https://biobeat3d.netlify.app/> |
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> |
