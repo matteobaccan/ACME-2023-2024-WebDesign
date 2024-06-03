@@ -49,7 +49,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> | S | N |
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> | S | N |
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | N |
-|Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> |
+|Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> | S | N |
 |Hysllari Denisa| <https://github.com/denisahys/illusion> | <> |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://chipper-semifreddo-0743e1.netlify.app/> |
