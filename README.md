@@ -45,9 +45,9 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Cavallari Alessia| <https://github.com/alessiaacavallari/Sito-web> | <https://splendorous-pixie-122546.netlify.app/> | S | S |
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <https://giopgraphicsportfolio.netlify.app/> | S | N |
 |De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> | S | N |
-|Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Dellagaren-Portfolio> | <https://dellagarenportolio.netlify.app/> | S | N |
-|Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> | S | N |
-|Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> | S | N |
+|Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Dellagaren-Portfolio> | <https://dellagarenportolio.netlify.app> | S | N |
+|Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app> | S | N |
+|Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app> | S | N |
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | N |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> | S | N |
 |Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> | N | N |
