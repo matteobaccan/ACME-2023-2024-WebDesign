@@ -50,7 +50,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app> | S | S |
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | S |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> | S | S |
-|Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> | N | N |
+|Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> | N | S |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> | S | N |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://matildemarinaportfolio.netlify.app/> | S | S |
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | N |
