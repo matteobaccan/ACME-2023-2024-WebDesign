@@ -53,7 +53,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> | N | S |
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> | S | N |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://matildemarinaportfolio.netlify.app/> | S | S |
-|Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | N |
+|Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | S |
 |Mecca Beniamino| <> | <> |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://vittorio-portfolio.netlify.app/> | S | S |
 |Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://cheerful-lolly-9b7b25.netlify.app/> | S | S |
