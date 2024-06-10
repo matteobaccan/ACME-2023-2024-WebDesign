@@ -51,22 +51,22 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> | S | S |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> | S | S |
 |Hysllari Denisa| <https://github.com/denisahys/illusion> | <https://illusionhd.netlify.app/> | N | S |
-|Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> | S | N |
+|Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> | S | S |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://matildemarinaportfolio.netlify.app/> | S | S |
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | S |
-|Mecca Beniamino| <> | <> |
+|Mecca Beniamino| <> | <> | N | N |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://vittorio-portfolio.netlify.app/> | S | S |
 |Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://cheerful-lolly-9b7b25.netlify.app/> | S | S |
-|Muca Romilda| <https://github.com/ROMILDA30/Arkey.git> | <https://arkeybyromildamuca.netlify.app> |
+|Muca Romilda| <https://github.com/ROMILDA30/Arkey.git> | <https://arkeybyromildamuca.netlify.app> | 
 |Ortone Erica| <https://github.com/Ericaortone/Esercizi> | <https://esmenyperteeperiltuofuturo.netlify.app/> | S | S |
-|Racioppi Anna| <https://github.com/AnnaRacioppi/Sito-web-design-> | <https://shiny-malabi-e7b345.netlify.app/> | S | N |
+|Racioppi Anna| <https://github.com/AnnaRacioppi/Sito-web-design-> | <https://shiny-malabi-e7b345.netlify.app/> | S | S |
 |Ragni Adele| <https://github.com/adeleragni/progetto-esame-> | <https://riami.netlify.app/> | S | S |
-|Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani-ranasinghe/progetto-esame> | <https://i-conic.netlify.app/> | S | N |
-|Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> | S | N |
-|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> | S | N |
+|Ranasinghe Arachchige Shehani Vimukthika Perera| <https://github.com/shehani-ranasinghe/progetto-esame> | <https://i-conic.netlify.app/> | S | S |
+|Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> | S | S |
+|Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> | S | S |
 |Restelli Davide| <https://github.com/Chiorico/Sito-Personale> | <> | N | N |
-|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> | S | N |
+|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> | S | S |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> | S | S |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://lamour-noemizanforlin.netlify.app/> | S | S |
-|Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> | S | N |
+|Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> | S | S |
 
