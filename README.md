@@ -65,7 +65,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> | S | N |
 |Restelli Davide| <https://github.com/Chiorico/Sito-Personale> | <> | N | N |
-|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> |
+|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> | S | N |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://fairytaleweddings-noemizanforlin.netlify.app/> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> | S | N |
