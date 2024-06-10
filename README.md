@@ -67,6 +67,6 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Restelli Davide| <https://github.com/Chiorico/Sito-Personale> | <> | N | N |
 |Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://portfoliodimoda.netlify.app/> | S | N |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> | S | S |
-|Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://fairytaleweddings-noemizanforlin.netlify.app/> | S | N |
+|Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://lamour-noemizanforlin.netlify.app/> | S | N |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> | S | N |
 
