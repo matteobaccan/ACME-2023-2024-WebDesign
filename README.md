@@ -54,7 +54,6 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Leo Angelica| <https://github.com/AngelicaLeo/Angelica-Leo-> | <https://meek-kleicha-a1e897.netlify.app/> | S | S |
 |Marina Matilde| <https://github.com/Mat01ty/Archivio> | <https://matildemarinaportfolio.netlify.app/> | S | S |
 |Mauro Giada| <https://github.com/717713073/WebDesignProgetto> | <https://giadamauroportfolio.netlify.app/> | S | S |
-|Mecca Beniamino| <> | <> | N | N |
 |Meloni Vittorio| <https://github.com/VittorioMeloni/Progetto-Web-Design-Portfolio> | <https://vittorio-portfolio.netlify.app/> | S | S |
 |Miramonti Elisa| <https://github.com/MiramontiElisa/Esame> | <https://elygraphicart.netlify.app> | S | S |
 |Muca Romilda| <https://github.com/ROMILDA30/Arkey.git> | <https://arkeybyromildamuca.netlify.app> | S | S |
