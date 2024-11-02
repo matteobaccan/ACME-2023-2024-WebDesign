@@ -12,7 +12,7 @@ Ogni sito avrà un numero minimo di elementi che potranno essere estesi dai sing
 ### Elementi principali
 
 - README.MD descrittivo del progetto
-- Nome azienda e motto: ognu alunno potrà utilizzare design di loghi già realizzati per altri corsi
+- Nome azienda e motto: ogni alunno potrà utilizzare design di loghi già realizzati per altri corsi
 - Chi siamo: un paragrafo che identifica l'azienda e di cosa si occupa
 - I servizi che offriamo: elenco di servizi offerti ed eventuali sreenshot di lavori già realizzati
 
