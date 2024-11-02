@@ -28,7 +28,7 @@ Il sito potrà ospitare integrazioni tratte da siti esterni o strumenti di AI
 ### Caratteristiche
 
 - Responsive : la resa dovrà essere ottimale in ambito mobile, tablet e desktop
-- Esente da errori sintattici : verificabili tramite validatori online
+- Esente da errori sintattici : verificabili tramite un validatore online
 
 ### Progetti di esempio del corso di WebDesign
 
